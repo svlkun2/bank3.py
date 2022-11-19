@@ -16,6 +16,7 @@ class Customer:
             print('해당 계좌가 없습니다.')
 
     def sub_amount(self, a_id, amount):
+        self.accounts
         ~
 
     def add_account(self, a_id):
